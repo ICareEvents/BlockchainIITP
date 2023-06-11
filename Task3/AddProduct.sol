@@ -1,4 +1,4 @@
-//SPDX-License-Identifier:MIT
+//SPDX-License-Identifier:MITh
 pragma solidity ^0.8.18;
 contract AddProduct 
 {
