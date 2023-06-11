@@ -1,5 +1,5 @@
 //SPDX-License-Identifier:MIT
-pragma solidity ^0.8.18;wfwd
+pragma solidity ^0.8.18;
 contract Task2 
 {
     struct UserInfo 
