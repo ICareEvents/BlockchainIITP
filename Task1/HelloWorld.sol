@@ -1,5 +1,5 @@
 //SPDX-License-Identifier:MIT
-pragma solidity ^0.8.18;ww
+pragma solidity ^0.8.18;
 contract Task1 
 {
     string public message;
